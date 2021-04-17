@@ -1,0 +1,81 @@
+﻿machine;month;category;pos1;pos2;pos3;pos4;pos5
+bench;january;chest;5210;6673;8741;3172;6598
+ab crunch;january;core;3862;5870;4520;1133;1194
+barbell bench;january;chest;6048;3677;7852;6643;6158
+leg press;january;legs;6456;4111;6542;4935;4780
+vertical leg press;january;legs;4723;2590;1683;4472;6329
+cable rows;january;back;5745;5662;2375;7507;2315
+chest press;january;chest;2150;5795;6892;3301;4045
+lat pull-down;january;back;3104;2502;4587;5718;7911
+chest flye ;january;chest;5404;1040;6546;1012;7288
+leg extension;january;legs;1237;5508;3548;2094;7747
+seated curl;january;arms;2451;4410;4641;2819;5245
+calf raise;january;legs;3657;1245;3787;2314;6877
+smith;january;arms;4987;6580;2134;3135;5315
+hanging leg raise;january;legs;5523;4978;7821;6118;7586
+rowing machine;january;back;2357;2530;4354;2543;7876
+overhead press;january;shoulders;2587;2532;4213;3420;6819
+preacher curl bench;january;arms;6163;6696;3587;4009;4289
+seated biceps curl ;january;arms;4756;6139;6350;6596;4800
+treadmill;january;legs;5042;1676;5687;5006;6595
+stair climber;january;legs;3587;3938;1546;1287;3548
+bench;february;chest;1262;5690;6789;5320;3423
+ab crunch;february;core;4457;1079;6410;3789;6318
+barbell bench;february;chest;5827;1060;4628;2273;1119
+leg press;february;legs;1674;2229;2932;2048;3839
+vertical leg press;february;legs;2510;2859;4111;2893;3872
+cable rows;february;back;1331;4425;1173;2742;5552
+chest press;february;chest;4670;4441;6218;1499;1976
+lat pull-down;february;back;2027;3240;6558;5147;4820
+chest flye ;february;chest;5502;6114;4281;3752;3468
+leg extension;february;legs;6633;6742;3324;3016;1319
+seated curl;february;arms;6254;3802;5364;4061;4074
+calf raise;february;legs;2624;4383;2116;5079;3518
+smith;february;arms;3368;5221;2114;1179;4676
+hanging leg raise;february;legs;6642;4523;5386;5379;5367
+rowing machine;february;back;1729;5799;4428;6892;3027
+overhead press;february;shoulders;5329;6651;1896;6148;2332
+preacher curl bench;february;arms;2382;1589;5530;4009;3977
+seated biceps curl ;february;arms;2049;3529;6763;6555;6420
+treadmill;february;legs;3036;1727;2260;3109;6273
+stair climber;february;legs;1790;1617;5708;2799;2722
+bench;march;chest;1800;5168;2665;3040;4156
+ab crunch;march;core;6274;5066;6350;1829;2413
+barbell bench;march;chest;3313;4549;1496;3802;1739
+leg press;march;legs;3103;5677;4253;3115;6670
+vertical leg press;march;legs;2479;6722;1070;2811;3461
+cable rows;march;back;2340;3530;1308;3455;3430
+chest press;march;chest;2000;5012;2669;6139;6225
+lat pull-down;march;back;6151;4119;3271;1034;6524
+chest flye ;march;chest;5076;4273;5870;6476;4119
+leg extension;march;legs;2082;4058;6339;1938;5829
+seated curl;march;arms;4221;3173;5712;5391;5716
+calf raise;march;legs;3888;6778;1742;6112;4996
+smith;march;arms;2371;3135;1265;6116;4099
+hanging leg raise;march;legs;4002;4669;3338;3991;5546
+rowing machine;march;back;4851;4062;6994;1954;6201
+overhead press;march;shoulders;4419;5279;6561;1084;2778
+preacher curl bench;march;arms;4024;4685;5652;1058;1213
+seated biceps curl ;march;arms;3065;5268;2991;5619;2740
+treadmill;march;legs;4973;6348;6051;4841;4284
+stair climber;march;legs;4669;3145;1337;5270;6170
+bench;april;chest;4721;3491;2816;5682;5300
+ab crunch;april;core;3585;5428;6644;4153;5348
+barbell bench;april;chest;1571;4983;3902;4538;3075
+leg press;april;legs;4047;3975;2384;3175;1527
+vertical leg press;april;legs;1579;3036;4300;1029;1713
+cable rows;april;back;1396;4082;6392;2946;3590
+chest press;april;chest;4020;5441;1054;4375;4809
+lat pull-down;april;back;6941;3654;4121;3327;4742
+chest flye ;april;chest;2964;5312;4383;6378;4127
+leg extension;april;legs;6842;2770;5325;5824;6306
+seated curl;april;arms;6842;4744;5979;5700;1725
+calf raise;april;legs;2556;2190;3210;6239;5652
+smith;april;arms;4821;5343;6445;6366;5742
+hanging leg raise;april;legs;1068;4789;3666;2086;1113
+rowing machine;april;back;1299;1683;2700;3905;2702
+overhead press;april;shoulders;6743;2221;6890;2064;3420
+preacher curl bench;april;arms;5217;2195;1540;1182;2830
+seated biceps curl ;april;arms;3692;4308;5208;3318;4189
+treadmill;april;legs;1691;4691;5964;4525;2646
+stair climber;april;legs;2869;1265;3062;2699;1574
